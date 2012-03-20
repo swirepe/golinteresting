@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule
+END
+ProbabalisticRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/ProbabalisticRule.java
+END
+SeedsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/SeedsRule.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/pkehrer/!svn/ver/286/trunk/AI/src/rule/Rule.java
+END
+DayAndNightRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/DayAndNightRule.java
+END
+StandardRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/StandardRule.java
+END
+TwoAwayRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/TwoAwayRule.java
+END
+GenericRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/src/rule/GenericRule.java
+END

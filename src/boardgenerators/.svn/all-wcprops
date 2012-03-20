@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/pkehrer/!svn/ver/308/trunk/AI/src/boardgenerators
+END
+Glider.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/pkehrer/!svn/ver/308/trunk/AI/src/boardgenerators/Glider.java
+END
+Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/pkehrer/!svn/ver/308/trunk/AI/src/boardgenerators/Box.java
+END
+BoardFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/pkehrer/!svn/ver/303/trunk/AI/src/boardgenerators/BoardFactory.java
+END
+Blank.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/pkehrer/!svn/ver/286/trunk/AI/src/boardgenerators/Blank.java
+END
+GliderGun.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/pkehrer/!svn/ver/303/trunk/AI/src/boardgenerators/GliderGun.java
+END

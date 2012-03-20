@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/pkehrer/!svn/ver/355/trunk/AI/test/tests
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/pkehrer/!svn/ver/355/trunk/AI/test/tests/Experiment.java
+END
+GeneticAlgorithmTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/pkehrer/!svn/ver/350/trunk/AI/test/tests/GeneticAlgorithmTest.java
+END
+HeuristicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/pkehrer/!svn/ver/338/trunk/AI/test/tests/HeuristicTests.java
+END
+TrainingRuns.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/pkehrer/!svn/ver/340/trunk/AI/test/tests/TrainingRuns.java
+END

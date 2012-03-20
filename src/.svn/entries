@@ -1,0 +1,58 @@
+10
+
+dir
+355
+https://sourceforge.wpi.edu/svn/repos/pkehrer/trunk/AI/src
+https://sourceforge.wpi.edu/svn/repos/pkehrer
+
+
+
+2010-12-02T19:57:29.125005Z
+355
+pkehrer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cc331d04-e03d-0410-98d9-e9d9abbd6667
+
+heuristic
+dir
+
+learning
+dir
+
+test
+dir
+
+graphics
+dir
+
+boardgenerators
+dir
+
+printer
+dir
+
+geneticalgorithm
+dir
+
+loader
+dir
+
+board
+dir
+
+rule
+dir
+
